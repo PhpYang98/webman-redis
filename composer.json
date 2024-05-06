@@ -1,6 +1,6 @@
 {
     "name": "yangpeng/webman-redis",
-    "description": "description",
+    "description": "适合于webman的redis",
     "keywords": [
         "webman-redis",
         "redis",

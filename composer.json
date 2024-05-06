@@ -1,0 +1,25 @@
+{
+    "name": "yangpeng/webman-redis",
+    "description": "description",
+    "keywords": [
+        "webman-redis",
+        "redis",
+        "webman"
+    ],
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "yangpeng"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "ext-redis": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "YangPeng\\WebManRedis\\": "src"
+        }
+    }
+}
